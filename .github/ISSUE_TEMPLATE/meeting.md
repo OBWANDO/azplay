@@ -1,7 +1,7 @@
 ---
 name: "Create New Agenda"
 about: "Use this template to create a new meeting agenda."
-title: "Working Group Call #X"
+title: "Proposed SIG-'name' meeting agenda for MMMM-DD-YY"
 labels: mtg-agenda
 ---
 
