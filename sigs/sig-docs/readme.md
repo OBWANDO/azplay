@@ -30,6 +30,6 @@ Below is a list of all prior completed meetings and related resources.
 
 See [O3DE Resources](https://o3de.github.io/o3de/foundation) for additional information related to any SIG in O3DE.
 
-# Licensingf
+# Licensing
 
 The O3DE/foundation repository and all contributions under this repository herein are licensed under [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). Please note that, by contributing to this repository, whether via commit, pull request, issue, comment, or in any other fashion, **you are explicitly agreeing that all of your contributions will fall under the same permissive license.**
