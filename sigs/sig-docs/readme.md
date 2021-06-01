@@ -24,7 +24,7 @@ Below is a list of all prior completed meetings and related resources.
 
 | No   | Date       | Time | Agenda  | Media | Notes | Resources |
 | ---- | ---------- | ---- | ------- | ----- | ----- | ---- |
-| 0001 | 2021-05-31 | 1600 UTC | [Agenda](https://github.com/OBWANDO/azplay/issues/34) | [Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [Notes](https://obwando.github.io/azplay/sigs/sig-docs/meetings/20210531-Meeting.md) | Link |
+| 0001 | 2021-05-31 | 1600 UTC | [Agenda](https://github.com/OBWANDO/azplay/issues/34) | [Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [Notes](https://obwando.github.io/azplay/sigs/sig-docs/meetings/20210531-meeting) | Link |
 
 # General Resources
 
