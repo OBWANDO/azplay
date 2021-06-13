@@ -2,6 +2,7 @@ name: Python Command Dispatch
 on:
   issue_comment:
     types: [created, edited]
+  issues:
 jobs:
   pythonCommandDispatch:
     runs-on: self-hosted
