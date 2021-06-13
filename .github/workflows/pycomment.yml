@@ -1,7 +1,7 @@
 name: Python Command Dispatch
 on:
   issue_comment:
-    types: [created]
+    types: [created, edited]
 jobs:
   pythonCommandDispatch:
     runs-on: self-hosted
