@@ -34,5 +34,4 @@ jobs:
       run: python main.py
       env:
         github_context: ${{ toJSON(github) }}
-        eventdata: ${{ toJSON(github.event) }}
         token: ${{ secrets.TESTPAT }}
