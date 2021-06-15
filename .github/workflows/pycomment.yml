@@ -3,7 +3,10 @@ on:
   issue_comment:
     types: [created, edited]
   issues:
+    types: [created]
+  project:
   project_column:
+  project_card:
 jobs:
   pythonCommandDispatch:
     runs-on: self-hosted
