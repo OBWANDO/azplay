@@ -1,6 +1,6 @@
 # azplay
 
-This is a sandbox for everyone to learn, test, play and destroy.
+This is a sandbox for everyone to learn, test, play and destroy. :)
 
 ## Table of Contents
 
